@@ -1,0 +1,3 @@
+﻿  test.c
+D:\leon_code\moneymulti\test.c(8,22): warning C4101: “i”: 未引用的局部变量
+  moneymulti.vcxproj -> D:\leon_code\moneymulti\x64\Debug\moneymulti.exe
